@@ -1,0 +1,5 @@
+baseURL = ''
+languageCode = 'pl-PL'
+title = 'Blog'
+
+theme='PaperMod'
